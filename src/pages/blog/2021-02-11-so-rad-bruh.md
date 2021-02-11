@@ -9,3 +9,7 @@ tags:
   - none
 ---
 yeah
+
+
+
+https://perell.com/
